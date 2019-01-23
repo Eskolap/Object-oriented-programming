@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\bin\Debug\netcoreapp2.1\CarProgram.deps.json
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\bin\Debug\netcoreapp2.1\CarProgram.runtimeconfig.json
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\bin\Debug\netcoreapp2.1\CarProgram.runtimeconfig.dev.json
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\bin\Debug\netcoreapp2.1\CarProgram.dll
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\bin\Debug\netcoreapp2.1\CarProgram.pdb
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.csprojAssemblyReference.cache
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.AssemblyInfoInputs.cache
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.AssemblyInfo.cs
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.dll
+D:\DEV Digitrade\Oliointi\bookprogram\CarProgram\obj\Debug\netcoreapp2.1\CarProgram.pdb

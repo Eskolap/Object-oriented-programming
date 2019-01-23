@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.csprojAssemblyReference.cache
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.AssemblyInfoInputs.cache
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.AssemblyInfo.cs
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\bin\Debug\netcoreapp2.1\bookprogram.deps.json
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\bin\Debug\netcoreapp2.1\bookprogram.runtimeconfig.json
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\bin\Debug\netcoreapp2.1\bookprogram.runtimeconfig.dev.json
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\bin\Debug\netcoreapp2.1\bookprogram.dll
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\bin\Debug\netcoreapp2.1\bookprogram.pdb
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.dll
+D:\DEV Digitrade\Oliointi\bookprogram\bookprogram\obj\Debug\netcoreapp2.1\bookprogram.pdb
