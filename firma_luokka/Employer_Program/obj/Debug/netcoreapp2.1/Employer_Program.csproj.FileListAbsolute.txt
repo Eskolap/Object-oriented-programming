@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\bin\Debug\netcoreapp2.1\Employer_Program.deps.json
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\bin\Debug\netcoreapp2.1\Employer_Program.runtimeconfig.json
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\bin\Debug\netcoreapp2.1\Employer_Program.runtimeconfig.dev.json
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\bin\Debug\netcoreapp2.1\Employer_Program.dll
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\bin\Debug\netcoreapp2.1\Employer_Program.pdb
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.csprojAssemblyReference.cache
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.AssemblyInfoInputs.cache
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.AssemblyInfo.cs
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.dll
+D:\DEV Digitrade\Oliointi\firma_luokka\Employer_Program\obj\Debug\netcoreapp2.1\Employer_Program.pdb
