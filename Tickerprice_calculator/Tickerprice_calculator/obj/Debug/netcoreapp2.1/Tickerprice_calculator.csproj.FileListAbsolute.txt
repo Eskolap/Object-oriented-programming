@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.csprojAssemblyReference.cache
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.AssemblyInfoInputs.cache
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.AssemblyInfo.cs
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\bin\Debug\netcoreapp2.1\Tickerprice_calculator.deps.json
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\bin\Debug\netcoreapp2.1\Tickerprice_calculator.runtimeconfig.json
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\bin\Debug\netcoreapp2.1\Tickerprice_calculator.runtimeconfig.dev.json
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\bin\Debug\netcoreapp2.1\Tickerprice_calculator.dll
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\bin\Debug\netcoreapp2.1\Tickerprice_calculator.pdb
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.dll
+D:\DEV Digitrade\Object-oriented\Tickerprice_calculator\Tickerprice_calculator\obj\Debug\netcoreapp2.1\Tickerprice_calculator.pdb
