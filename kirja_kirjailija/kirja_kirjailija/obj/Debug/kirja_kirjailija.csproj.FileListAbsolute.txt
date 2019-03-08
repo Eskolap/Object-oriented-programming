@@ -1,0 +1,7 @@
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\bin\Debug\kirja_kirjailija.exe.config
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\bin\Debug\kirja_kirjailija.exe
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\bin\Debug\kirja_kirjailija.pdb
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\obj\Debug\kirja_kirjailija.csprojAssemblyReference.cache
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\obj\Debug\kirja_kirjailija.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\obj\Debug\kirja_kirjailija.exe
+D:\DEV Digitrade\Object-oriented\kirja_kirjailija\kirja_kirjailija\obj\Debug\kirja_kirjailija.pdb
