@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.csprojAssemblyReference.cache
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.AssemblyInfoInputs.cache
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.AssemblyInfo.cs
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\bin\Debug\netcoreapp2.1\Rajapinta.deps.json
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\bin\Debug\netcoreapp2.1\Rajapinta.runtimeconfig.json
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\bin\Debug\netcoreapp2.1\Rajapinta.runtimeconfig.dev.json
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\bin\Debug\netcoreapp2.1\Rajapinta.dll
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\bin\Debug\netcoreapp2.1\Rajapinta.pdb
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.dll
+D:\DEV Digitrade\Object-oriented\Rajapinta\Rajapinta\obj\Debug\netcoreapp2.1\Rajapinta.pdb
