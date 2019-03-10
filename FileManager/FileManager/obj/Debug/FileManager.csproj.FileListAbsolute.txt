@@ -1,0 +1,11 @@
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\FileManager.exe.config
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\Newtonsoft.Json.dll
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\Newtonsoft.Json.pdb
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\bin\Debug\Newtonsoft.Json.xml
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\obj\Debug\FileManager.exe
+D:\DEV Digitrade\Object-oriented\FileManager\FileManager\obj\Debug\FileManager.pdb
